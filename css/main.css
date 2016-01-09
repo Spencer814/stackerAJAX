@@ -1,6 +1,38 @@
+body {
+	font-family: 'Bitter', serif;
+	background: #5085bf;
+	color: white;
+}
+
+.header {
+	text-shadow: 0 0 3px #444444;
+}
+
+dt {
+	padding-top: 1em;
+}
+
+dd {
+	padding: 1em 0;
+}
+
+.asker > p {
+	margin: 0 auto 1em;
+}
+
 .container {
 	margin: 3em auto;
 	width: 600px;
+}
+
+.search-results {
+	padding: 1em 0;
+}
+
+.result {
+	background: #fee5cd;
+	color: black;
+	border-radius: 5px;
 }
 
 .hidden {
