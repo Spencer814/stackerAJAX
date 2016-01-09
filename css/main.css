@@ -44,4 +44,5 @@
 .error {
 	background-color: #F78181;
 	padding: 1em;
+	display: none;
 }
